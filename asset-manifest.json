@@ -7,5 +7,13 @@
     "main.2f2cf3b9.js.map": "/static/js/main.2f2cf3b9.js.map",
     "homepage": ". /"
   },
+<<<<<<< HEAD
   "entrypoints": ["static/css/main.d56e83e0.css", "static/js/main.2f2cf3b9.js"]
 }
+=======
+  "entrypoints": [
+    "static/css/main.d56e83e0.css",
+    "static/js/main.2f2cf3b9.js"
+  ]
+}
+>>>>>>> a3d4ccf2694f2886af0107a08d7bfb22dd059874
